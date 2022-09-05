@@ -3,3 +3,9 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
 ZCZC W00 30 L81 Listening: Radio, Music, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 200 L02 ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L05 QUIZ
+ZCZC W00 90 L09 Weekly Assignments
