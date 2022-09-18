@@ -1,3 +1,5 @@
-# os222
+# template.vlsm.org
 
-Operating Systems 2022-2 (Odd Semester)
+This is a GitHub Page template on GitHub.com.
+Fill free to clone/fork/hijack/whatever it!
+
