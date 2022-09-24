@@ -2,23 +2,33 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 30 L81 Listening: Radio, Music, etc.
-ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00  30 L81 Listening: Radio, Music, etc.
+ZCZC W00  20 L01 SCELE/Discord related
 ZCZC W00 200 L02 ZOOM meetings related
-ZCZC W00 10 L03 GitHub related
-ZCZC W00 10 L04 GitHub Pages related
-ZCZC W00 10 L05 QUIZ
-ZCZC W00 90 L09 Weekly Assignments
-ZCZC W01 20 L00 General, etc.
-ZCZC W01 20 L01 SCELE/Discord related
+ZCZC W00  10 L03 GitHub related
+ZCZC W00  10 L04 GitHub Pages related
+ZCZC W00  10 L05 QUIZ
+ZCZC W00  90 L09 Weekly Assignments
+ZCZC W01  20 L00 General, etc.
+ZCZC W01  20 L01 SCELE/Discord related
 ZCZC W01 200 L02 ZOOM meetings related
-ZCZC W01 60 L03 GitHub related
-ZCZC W01 10 L05 QUIZ
-ZCZC W01 90 L09 Weekly Assignments
-ZCZC W02 20 L04 GitHub Pages related
-ZCZC W02 90 L81 Listening: Radio, Music, etc.
-ZCZC W02 10 L05 QUIZ
-ZCZC W02 90 L09 Weekly Assignments
-ZCZC W02 30 L03 GitHub related
-ZCZC W02 25 L01 SCELE/Discord related
+ZCZC W01  60 L03 GitHub related
+ZCZC W01  10 L05 QUIZ
+ZCZC W01  90 L09 Weekly Assignments
+ZCZC W02  20 L04 GitHub Pages related
+ZCZC W02  90 L81 Listening: Radio, Music, etc.
+ZCZC W02  10 L05 QUIZ
+ZCZC W02  90 L09 Weekly Assignments
+ZCZC W02  30 L03 GitHub related
+ZCZC W02  25 L01 SCELE/Discord related
 ZCZC W02 200 L02 ZOOM meetings related
+ZCZC W03  90 L09 Weekly Assignments
+ZCZC W03 200 L81 Listening: Radio, Music, etc.
+ZCZC W03 100 L02 ZOOM meetings related
+ZCZC W03  25 L05 QUIZ
+ZCZC W03  30 L01 SCELE/Discord related
+ZCZC W03  10 L03 Github and git related, including commit, push, pull
+ZCZC W03  15 L32 YouTube: watching OS related topics, etc.
+ZCZC W03  30 L82 Reading Book (paper or online)
+ZCZC W03 120 L88 Workout/Sport/Exercise/ETC.
+ZCZC W03  30 L00 General, etc.

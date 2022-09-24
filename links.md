@@ -9,3 +9,6 @@ permalink: /LINKS/
 3. [Editing Files through PuTTY](https://blog.redserverhost.com/how-to-edit-and-save-a-file-with-putty-easy-guide%E2%98%91%EF%B8%8F/): Useful guide to editing and saving files through PuTTY
 4. [Intro to Cyber Security](https://www.youtube.com/watch?v=rcDO8km6R6c): YouTube lecture on the basics of cyber security
 5. [Learn Git in 15 Minutes](https://www.youtube.com/watch?v=USjZcfj8yxE): Short YouTube video on the basic git bash commands that may come in handy during the course
+6. [Virtual Machines in 15 Minutes](https://www.youtube.com/watch?v=mQP0wqNT_DI): A short video lecture on the use of Virtual Machines and its importance
+7. [Intro to Linux Regex (grep)](https://www.guru99.com/linux-regular-expressions.html): An introductory guide on how to use Regex in Linux
+8. [Linux Regex Guide](https://www.cyberciti.biz/faq/grep-regular-expressions/): A more complete guide on how to use Regex in Linux. Includes examples and step-by-step explanations on the commands
