@@ -12,3 +12,6 @@ permalink: /LINKS/
 6. [Virtual Machines in 15 Minutes](https://www.youtube.com/watch?v=mQP0wqNT_DI): A short video lecture on the use of Virtual Machines and its importance
 7. [Intro to Linux Regex (grep)](https://www.guru99.com/linux-regular-expressions.html): An introductory guide on how to use Regex in Linux
 8. [Linux Regex Guide](https://www.cyberciti.biz/faq/grep-regular-expressions/): A more complete guide on how to use Regex in Linux. Includes examples and step-by-step explanations on the commands
+9. [Tarball Basics](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html): A short explanation on what tarballs actually are and how to use them on Linux
+10. [Linux Libraries](https://opensource.com/article/21/2/linux-software-libraries): A complete guide to Linux libraries using C
+
