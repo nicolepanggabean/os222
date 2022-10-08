@@ -40,3 +40,11 @@ ZCZC W04  30 L01 SCELE/Discord related
 ZCZC W04  45 L88 Workout/Sport/Exercise/ETC.
 ZCZC W04  75 L00 General, etc.
 ZCZC W04  10 L03 Github and git related, including commit, push, pull
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05  10 L05 QUIZ
+ZCZC W05  90 L09 WEEKLY ASSIGNMENTS
+ZCZC W05  10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05  30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05  20 L07 Demo related
+ZCZC W05  60 L82 Reading Book (paper or online)
+ZCZC W05 120 L88 Workout/Sport/Exercise/ETC.

@@ -14,4 +14,6 @@ permalink: /LINKS/
 8. [Linux Regex Guide](https://www.cyberciti.biz/faq/grep-regular-expressions/): A more complete guide on how to use Regex in Linux. Includes examples and step-by-step explanations on the commands
 9. [Tarball Basics](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html): A short explanation on what tarballs actually are and how to use them on Linux
 10. [Linux Libraries](https://opensource.com/article/21/2/linux-software-libraries): A complete guide to Linux libraries using C
-
+11. [Page Faults](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/): A short and simple explanation to what a page fault is and how it is handled
+12. [Virtual Memory in Linux](https://www.makeuseof.com/virtual-memory-on-linux/): A guide to handling virtual memory on Linux
+13. [Intro to C Programming](https://www.cprogramming.com/tutorial/c/lesson1.html): A handy website with tutorials on how to code in C
