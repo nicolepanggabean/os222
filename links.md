@@ -17,3 +17,7 @@ permalink: /LINKS/
 11. [Page Faults](https://www.geeksforgeeks.org/page-fault-handling-in-operating-system/): A short and simple explanation to what a page fault is and how it is handled
 12. [Virtual Memory in Linux](https://www.makeuseof.com/virtual-memory-on-linux/): A guide to handling virtual memory on Linux
 13. [Intro to C Programming](https://www.cprogramming.com/tutorial/c/lesson1.html): A handy website with tutorials on how to code in C
+14. [Linux fork()](https://www.tutorialspoint.com/unix_system_calls/fork.htm): A short explanation to forks and the fork() function in Linux
+15. [C Pointers](https://www.programiz.com/c-programming/c-pointers): A tutorial on addresses and pointers in C
+16. [Processes in OS](https://binaryterms.com/process-in-operating-system.html): Introduction to processes and threads
+
