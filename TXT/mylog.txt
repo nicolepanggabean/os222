@@ -43,12 +43,12 @@ ZCZC W04  10 L03 Github and git related, including commit, push, pull
 ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05  10 L05 QUIZ
 ZCZC W05  90 L09 Weekly Assignments
-ZCZC W05  10 L03 GitHub and git related, including commit, push, pull
+ZCZC W05  10 L03 Github and git related, including commit, push, pull
 ZCZC W05  30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05  20 L07 Demo related
 ZCZC W05  60 L82 Reading Book (paper or online)
 ZCZC W05 120 L88 Workout/Sport/Exercise/ETC.
-ZCZC W06  15 L06 QUIZ
+ZCZC W06  15 L05 QUIZ
 ZCZC W06 100 L02 ZOOM meetings
 ZCZC W06 250 L81 Listening: Radio, Music, etc.
 ZCZC W06  90 L09 Weekly Assignments
@@ -57,3 +57,12 @@ ZCZC W06  30 L01 SCELE/Discord related
 ZCZC W06  20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06  15 L21 Trying something
 ZCZC W06  10 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07  15 L05 QUIZ
+ZCZC W07 100 L09 Weekly Assignments
+ZCZC W07 300 L81 Listening: Radio, Music, etc.
+ZCZC W07  20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 100 L02 ZOOM meetings
+ZCZC W07  15 L00 General, etc.
+ZCZC W07  45 L88 Workout/Sport/Exercise/ETC.
+ZCZC W07  20 L03 Github and git related, including commit, push, pull
+ZCZC W07  10 L27 SSH, key-gen, tunneling, putty, winscp
